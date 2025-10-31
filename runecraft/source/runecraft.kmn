@@ -12,6 +12,8 @@ store(&LAYOUTFILE) 'runecraft.keyman-touch-layout'
 begin Unicode > use(main)
 
 group(main) using keys
++ [K_0] > '🝰'
++ [K_1] > '🝯'
 + [SHIFT K_8] > '⊤'
 + [SHIFT K_1] > '🝁'
 + [SHIFT K_M] > '♀'
@@ -40,10 +42,9 @@ group(main) using keys
 + [K_SLASH] > '⊥'
 + [K_M] > '🜍'
 + [K_N] > '🝥'
-+ [K_B] > 'b'
++ [K_B] > '🝏'
 + [K_V] > '🝣'
 + [K_C] > '🝧'
-+ [K_X] > '🝏'
 + [K_Z] > 'z'
 + [K_L] > 'l'
 + [K_K] > '🜹'
