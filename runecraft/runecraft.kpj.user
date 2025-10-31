@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProjectUser>
+  <ViewState>
+    <tab>1</tab>
+    <showhelp>1</showhelp>
+    <path>C:\Users\lebowm\Keyman Developer\RunecraftKeyboard\runecraft\runecraft.kpj</path>
+  </ViewState>
+  <FileStates>
+    <FileState>
+      <ID>id_ede98e4633e239f933cbfd1f4e1b766c</ID>
+      <FullPath>C:\Users\lebowm\Keyman Developer\RunecraftKeyboard\runecraft\HISTORY.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_53e892b8b41cc4caece1cfd5ef21d6e7</ID>
+      <FullPath>C:\Users\lebowm\Keyman Developer\RunecraftKeyboard\runecraft\LICENSE.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0730bb7c2e8f9ea2438b52e419dd86c9</ID>
+      <FullPath>C:\Users\lebowm\Keyman Developer\RunecraftKeyboard\runecraft\README.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_deba1ef8a427222e8ac072df3d25276a</ID>
+      <FullPath>C:\Users\lebowm\Keyman Developer\RunecraftKeyboard\runecraft\runecraft.kpj</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_96fd2a26dd024548998b8c814778a86e</ID>
+      <FullPath>C:\Users\lebowm\Keyman Developer\RunecraftKeyboard\runecraft\runecraft.kpj.user</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8da344c4cea6f467013357fe099006f5</ID>
+      <FullPath>C:\Users\lebowm\Keyman Developer\RunecraftKeyboard\runecraft\source\readme.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_04197ff96ef335322c421feb12c3795d</ID>
+      <FullPath>C:\Users\lebowm\Keyman Developer\RunecraftKeyboard\runecraft\source\runecraft.ico</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_c59f9ac7c0bc4e03fa7241deb394cb36</ID>
+      <FullPath>C:\Users\lebowm\Keyman Developer\RunecraftKeyboard\runecraft\source\runecraft.keyman-touch-layout</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0101a307719f30abf932102ab170952e</ID>
+      <FullPath>C:\Users\lebowm\Keyman Developer\RunecraftKeyboard\runecraft\source\runecraft.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>Consolas|-9|   |0</DebugFont>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>False</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_c8611a4a34cee21a466d9d27653fb50d</ID>
+      <FullPath>C:\Users\lebowm\Keyman Developer\RunecraftKeyboard\runecraft\source\runecraft.kps</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_bb79741f2826cbb61a421f84a0c02e9a</ID>
+      <FullPath>C:\Users\lebowm\Keyman Developer\RunecraftKeyboard\runecraft\source\runecraft.kvks</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
+      <FullPath>C:\Users\lebowm\Keyman Developer\RunecraftKeyboard\runecraft\source\welcome.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_945d408c0c507f4cc68c680b2bfec80e</ID>
+      <FullPath>C:\Users\lebowm\Keyman Developer\RunecraftKeyboard\runecraft\source\..\build\runecraft.kmx</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0770abadcbe59bdacafaf45b2c8327f7</ID>
+      <FullPath>C:\Users\lebowm\Keyman Developer\RunecraftKeyboard\runecraft\source\..\build\runecraft.js</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_74b59ce93987918d9be71962251e072e</ID>
+      <FullPath>C:\Users\lebowm\Keyman Developer\RunecraftKeyboard\runecraft\source\..\build\runecraft.kvk</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_c296b5df3dc126e219e0173fcbc1baec</ID>
+      <FullPath>C:\Users\lebowm\Keyman Developer\RunecraftKeyboard\runecraft\source\..\LICENSE.md</FullPath>
+    </FileState>
+  </FileStates>
+  <MRU>
+    <File>
+      <ID>id_MRU0</ID>
+      <Filename>runecraft.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\lebowm\Keyman Developer\RunecraftKeyboard\runecraft\source\runecraft.kmn</FullPath>
+    </File>
+  </MRU>
+</KeymanDeveloperProjectUser>
