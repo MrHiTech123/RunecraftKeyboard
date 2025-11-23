@@ -12,6 +12,7 @@ store(&LAYOUTFILE) 'runecraft.keyman-touch-layout'
 begin Unicode > use(main)
 
 group(main) using keys
++ [K_Y] > '🜳'
 + [SHIFT K_0] > '⳻'
 + [SHIFT K_9] > '⳺'
 + [SHIFT ALT K_V] > 'Ⳕ'
